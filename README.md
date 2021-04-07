@@ -1,3 +1,3 @@
-This is my second practice on c++ with :heart: & :coffee:
+This is my second practice on c++ with :heart: & :computer:
 
 Good luck.
